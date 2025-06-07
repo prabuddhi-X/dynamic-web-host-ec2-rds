@@ -10,7 +10,7 @@
 [RDS-EC2_security_Group](project1/rds_EC2security_group_inbound.png)
 [RDS-Connectivity_Security](project1/RDS_connectivity_security.png)
 ## Connecting EC2 and RDS
-_ installed mysql-client on webserver
+- Installed mysql-client on webserver
 ```bash
 sudo apt update
 sudo apt install mysql-client
